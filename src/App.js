@@ -33,5 +33,5 @@ function App() {
     </div>
   );
 }
-// Render the Footer component
+
 export default App;
