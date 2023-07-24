@@ -1,0 +1,15 @@
+/* NAVIGATION SECTION */
+
+/* Set background color and text color for body element */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+/* Styling for navigation link highlight when hovered over or focused on */
+.nav-link-highlight:hover,
+.nav-link-highlight:focus {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: transparent;
+}
