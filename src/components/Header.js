@@ -4,7 +4,7 @@ import Nav from "./Nav";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faR, faN } from "@fortawesome/free-solid-svg-icons";
 import { Container, Row, Col } from "react-bootstrap";
-import "../style/Header.css";
+import "../styles/Header.css";
 
 // Header component
 function Header() {
