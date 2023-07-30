@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/nick-reece-react-portfolio/static/css/main.464bfdd1.css",
+    "main.js": "/github.io/nick-reece-react-portfolio/static/js/main.62c89f91.js",
+    "static/media/JobHive.PNG": "/github.io/nick-reece-react-portfolio/static/media/JobHive.643ba0ec1dda22e61d41.PNG",
+    "static/media/BeerAndAShow.PNG": "/github.io/nick-reece-react-portfolio/static/media/BeerAndAShow.9cd16b5dd356a2d5a542.PNG",
+    "static/media/Nick-Reece-Resume.pdf": "/github.io/nick-reece-react-portfolio/static/media/Nick-Reece-Resume.46d0fc7f6900a37f0b12.pdf",
+    "static/media/linked-in-headshot.jpg": "/github.io/nick-reece-react-portfolio/static/media/linked-in-headshot.02452dbf92145d6cff8b.jpg",
+    "static/media/WeatherDashboard.PNG": "/github.io/nick-reece-react-portfolio/static/media/WeatherDashboard.cdbe4e783c2e35ec67a2.PNG",
+    "static/media/WorkDayScheduler.PNG": "/github.io/nick-reece-react-portfolio/static/media/WorkDayScheduler.efa694b207cc1a817074.PNG",
+    "static/media/QuizApp.PNG": "/github.io/nick-reece-react-portfolio/static/media/QuizApp.40d458d973f52cbf3c5d.PNG",
+    "static/media/ExpressNoteTaker.PNG": "/github.io/nick-reece-react-portfolio/static/media/ExpressNoteTaker.816fba4d8ed3b3f8c6d6.PNG",
+    "index.html": "/github.io/nick-reece-react-portfolio/index.html",
+    "main.464bfdd1.css.map": "/github.io/nick-reece-react-portfolio/static/css/main.464bfdd1.css.map",
+    "main.62c89f91.js.map": "/github.io/nick-reece-react-portfolio/static/js/main.62c89f91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464bfdd1.css",
+    "static/js/main.62c89f91.js"
+  ]
+}
