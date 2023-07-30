@@ -24,10 +24,10 @@ function About() {
                   About Nick Reece
                 </Card.Title>
                 <Card.Text>
-                  Nick Reece is a web developer with a diverse background of experiences. From running the Cabinet and Appliance department at his local Menards store while finishing his degree, to giving presentations to Architects regarding the latest in Building Science, the path to Web Development has been atypical to say the least.
+                  Nick Reece is a web developer with a diverse background of experiences. From running the Cabinet and Appliance department at his local Menards store while finishing his degree, to giving presentations to Architects regarding the latest in Building Science, the path to Web Development has been atypical to say the least. 
                 </Card.Text>
                 <Card.Text>
-                  Para2
+                While Nick has excelled in several fields, his largest strength lies in technical problem solving. He has a love for combining his creative nature with the analytical thinking involved in web development. Since beginning his journey into the web development field, he has found that his business acumen combined with the critical thinking of computer science makes him an excellent candidate no matter the industry. Since Nick embraces any challenge put before him, learning both front end and back end web development has been an exciting experience. He looks forward to what the future in a new career will hold. 
                 </Card.Text>
               </Card.Body>
             </Card>
