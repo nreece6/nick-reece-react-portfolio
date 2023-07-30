@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Card, Image } from "react-bootstrap";
-import avatar from "../images/Portfolio_Headshot.png";
+import avatar from "../img/linked-in-headshot.jpg";
 import "../styles/About.css";
 
 function About() {
@@ -24,7 +24,7 @@ function About() {
                   About Nick Reece
                 </Card.Title>
                 <Card.Text>
-                  Para1
+                  Nick Reece is a web developer with a diverse background of experiences. From running the Cabinet and Appliance department at his local Menards store while finishing his degree, to giving presentations to Architects regarding the latest in Building Science, the path to Web Development has been atypical to say the least.
                 </Card.Text>
                 <Card.Text>
                   Para2

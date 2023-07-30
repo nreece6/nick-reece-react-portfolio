@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Nav from "./Nav";
+import Navigation from "./Nav";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faR, faN } from "@fortawesome/free-solid-svg-icons";
 import { Container, Row, Col } from "react-bootstrap";
@@ -39,7 +39,7 @@ function Header() {
           </Col>
         </Row>
       </Container>
-      <Nav />
+      <Navigation />
     </>
   );
 }

@@ -4,7 +4,7 @@ import { Navbar, Container, Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 // Navigation component
-const Nav = () => {
+const Navigation = () => {
   return (
     // Bootstrap Navbar
     <Navbar bg="dark" variant="dark" expand="lg" sticky="top" className="py-0.5 mt-0">
@@ -25,4 +25,4 @@ const Nav = () => {
   );
 };
 // Export Navigation
-export default Nav;
+export default Navigation;
